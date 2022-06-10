@@ -6165,11 +6165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\tests\\DevInHouse.EFCore.Domain.Tests\\DevInHouse.EFCore.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\tests\\DevInHouse.EFCore.Domain.Tests\\DevInHouse.EFCore.Domain.Tests.csproj",
       "projectName": "DevInHouse.EFCore.Domain.Tests",
-      "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\tests\\DevInHouse.EFCore.Domain.Tests\\DevInHouse.EFCore.Domain.Tests.csproj",
+      "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\tests\\DevInHouse.EFCore.Domain.Tests\\DevInHouse.EFCore.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\55489\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\tests\\DevInHouse.EFCore.Domain.Tests\\obj\\",
+      "outputPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\tests\\DevInHouse.EFCore.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55489\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6186,8 +6186,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj": {
-              "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj"
+            "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj": {
+              "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj"
             }
           }
         }

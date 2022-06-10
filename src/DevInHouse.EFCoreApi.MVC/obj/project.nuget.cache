@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kgUscJcV/ZjDbjWGr3VxilnIOmYRS7SkXNyj07k/+2UNBjgizsxRUl2UVJLSQB99Udj04DLviFoOeXlFHNKKZA==",
+  "dgSpecHash": "ju585y8TZH2tnGSiTQ2TENAdnXNn1Ij14IyHKdWQ0kHFHxBVdGyKWhxbu9Kn7niXsh3pXjC0GXDx9wXoxG0v+w==",
   "success": true,
-  "projectFilePath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.MVC\\DevInHouse.EFCoreApi.MVC.csproj",
+  "projectFilePath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.MVC\\DevInHouse.EFCoreApi.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55489\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\55489\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

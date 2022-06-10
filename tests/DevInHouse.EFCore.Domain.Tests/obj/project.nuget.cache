@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O0tPm3YD/Rr4QOIjEl/9CB6zq3CCyNSWFSoTbuj7YtAh32oNJWH8YQ0R0mHI+G/OQogzeG34vAFiqBDRcAucOw==",
+  "dgSpecHash": "hCPvd4aaiGpKiDv8KTha386xayx2aGy+bbFHHMafjgC5eMwEeeD8FST2CzR6TWeQ7Sv5Sxm3ka6gzSeAwDJ6oQ==",
   "success": true,
-  "projectFilePath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\tests\\DevInHouse.EFCore.Domain.Tests\\DevInHouse.EFCore.Domain.Tests.csproj",
+  "projectFilePath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\tests\\DevInHouse.EFCore.Domain.Tests\\DevInHouse.EFCore.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55489\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\55489\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

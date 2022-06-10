@@ -10408,11 +10408,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.MVC\\DevInHouse.EFCoreApi.MVC.csproj",
+      "projectUniqueName": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.MVC\\DevInHouse.EFCoreApi.MVC.csproj",
       "projectName": "DevInHouse.EFCoreApi.MVC",
-      "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.MVC\\DevInHouse.EFCoreApi.MVC.csproj",
+      "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.MVC\\DevInHouse.EFCoreApi.MVC.csproj",
       "packagesPath": "C:\\Users\\55489\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.MVC\\obj\\",
+      "outputPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55489\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10429,11 +10429,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Application\\DevInHouse.EFCoreApi.Application.csproj": {
-              "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Application\\DevInHouse.EFCoreApi.Application.csproj"
+            "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Application\\DevInHouse.EFCoreApi.Application.csproj": {
+              "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Application\\DevInHouse.EFCoreApi.Application.csproj"
             },
-            "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Data\\DevInHouse.EFCoreApi.Data.csproj": {
-              "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Data\\DevInHouse.EFCoreApi.Data.csproj"
+            "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Data\\DevInHouse.EFCoreApi.Data.csproj": {
+              "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Data\\DevInHouse.EFCoreApi.Data.csproj"
             }
           }
         }

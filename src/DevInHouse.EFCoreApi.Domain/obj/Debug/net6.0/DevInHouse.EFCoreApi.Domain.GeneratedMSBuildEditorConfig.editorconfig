@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DevInHouse.EFCoreApi.Domain
-build_property.ProjectDir = C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\
+build_property.ProjectDir = C:\wamp\www\DEVinHouse\M3S5\ListaEx\ExercicioM3S5\src\DevInHouse.EFCoreApi.Domain\

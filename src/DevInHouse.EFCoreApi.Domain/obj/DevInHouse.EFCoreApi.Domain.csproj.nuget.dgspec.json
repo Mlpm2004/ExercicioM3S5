@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj": {}
+    "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj": {}
   },
   "projects": {
-    "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj": {
+    "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj",
+        "projectUniqueName": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj",
         "projectName": "DevInHouse.EFCoreApi.Domain",
-        "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj",
+        "projectPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj",
         "packagesPath": "C:\\Users\\55489\\.nuget\\packages\\",
-        "outputPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Domain\\obj\\",
+        "outputPath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\55489\\AppData\\Roaming\\NuGet\\NuGet.Config",

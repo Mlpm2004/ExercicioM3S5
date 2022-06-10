@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A3vUcQFbtV4Zs/b8jZG2WhMBSSPSVDpSVStcBOXTLiIgpUJomAt2rLuMc52lY2B1Wr+nKPTx6Yu6lemrP+hjDA==",
+  "dgSpecHash": "RX59upDdy+w3uAlY4n6V720F1Uoscac+SLmS5qs0g+/iNyt5wTCBicI8BD52C2p0zDEy65ydI20fUg3aum9wHQ==",
   "success": true,
-  "projectFilePath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Data\\DevInHouse.EFCoreApi.Data.csproj",
+  "projectFilePath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\ListaEx\\ExercicioM3S5\\src\\DevInHouse.EFCoreApi.Data\\DevInHouse.EFCoreApi.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55489\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
     "C:\\Users\\55489\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
