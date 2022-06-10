@@ -1,0 +1,17 @@
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\bin\Debug\net6.0\DevInHouse.EFCoreApi.Data.deps.json
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\bin\Debug\net6.0\DevInHouse.EFCoreApi.Data.runtimeconfig.json
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\bin\Debug\net6.0\DevInHouse.EFCoreApi.Data.dll
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\bin\Debug\net6.0\DevInHouse.EFCoreApi.Data.pdb
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\bin\Debug\net6.0\DevInHouse.EFCoreApi.Domain.dll
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\bin\Debug\net6.0\DevInHouse.EFCoreApi.Domain.pdb
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\DevInHouse.EFCoreApi.Data.csproj.AssemblyReference.cache
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\DevInHouse.EFCoreApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\DevInHouse.EFCoreApi.Data.AssemblyInfoInputs.cache
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\DevInHouse.EFCoreApi.Data.AssemblyInfo.cs
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\DevInHouse.EFCoreApi.Data.csproj.CoreCompileInputs.cache
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\DevInHouse.EFCoreApi.Data.csproj.CopyComplete
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\DevInHouse.EFCoreApi.Data.dll
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\refint\DevInHouse.EFCoreApi.Data.dll
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\DevInHouse.EFCoreApi.Data.pdb
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\DevInHouse.EFCoreApi.Data.genruntimeconfig.cache
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Data\obj\Debug\net6.0\ref\DevInHouse.EFCoreApi.Data.dll

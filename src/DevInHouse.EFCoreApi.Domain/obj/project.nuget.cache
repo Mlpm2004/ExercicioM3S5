@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JbHDyUB32rlY9FQ9N07uA14XL+RUZ1m9fWdRCA2KR/gVinOncfxgdnw8VGZ0yEtvDhKLnUTXLJ330IW8yv0XA==",
+  "success": true,
+  "projectFilePath": "C:\\wamp\\www\\DEVinHouse\\M3S5\\Projeto\\DevInHouse.EFCoreApi\\src\\DevInHouse.EFCoreApi.Domain\\DevInHouse.EFCoreApi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55489\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

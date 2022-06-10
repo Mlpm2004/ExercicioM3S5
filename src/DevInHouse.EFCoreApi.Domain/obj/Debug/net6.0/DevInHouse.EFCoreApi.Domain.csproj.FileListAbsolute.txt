@@ -1,0 +1,12 @@
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\bin\Debug\net6.0\DevInHouse.EFCoreApi.Domain.deps.json
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\bin\Debug\net6.0\DevInHouse.EFCoreApi.Domain.dll
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\bin\Debug\net6.0\DevInHouse.EFCoreApi.Domain.pdb
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\obj\Debug\net6.0\DevInHouse.EFCoreApi.Domain.csproj.AssemblyReference.cache
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\obj\Debug\net6.0\DevInHouse.EFCoreApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\obj\Debug\net6.0\DevInHouse.EFCoreApi.Domain.AssemblyInfoInputs.cache
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\obj\Debug\net6.0\DevInHouse.EFCoreApi.Domain.AssemblyInfo.cs
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\obj\Debug\net6.0\DevInHouse.EFCoreApi.Domain.csproj.CoreCompileInputs.cache
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\obj\Debug\net6.0\DevInHouse.EFCoreApi.Domain.dll
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\obj\Debug\net6.0\refint\DevInHouse.EFCoreApi.Domain.dll
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\obj\Debug\net6.0\DevInHouse.EFCoreApi.Domain.pdb
+C:\wamp\www\DEVinHouse\M3S5\Projeto\DevInHouse.EFCoreApi\src\DevInHouse.EFCoreApi.Domain\obj\Debug\net6.0\ref\DevInHouse.EFCoreApi.Domain.dll
