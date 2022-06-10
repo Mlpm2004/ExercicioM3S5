@@ -49,17 +49,17 @@
                 @Html.DisplayFor(modelItem => item.Preco)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary"  title="Edita Livro">
                   <i class="bi bi-pencil-fill"></i>
                 </a>
             </td>
             <td>
-                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary" title="Detalha Livro">
                   <i class="bi bi-card-text"></i>
                 </a>
             </td>
             <td>
-                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger" title="Remove Livro">
                   <i class="bi bi-trash-fill"></i>
                 </a>
             </td>
